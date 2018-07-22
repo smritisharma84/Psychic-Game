@@ -1,0 +1,18 @@
+
+body{
+ background-color: #eee;
+ line-height: 200%;  
+ margin: auto; 
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 18px;
+}
+
+#game{
+    padding: 20px;
+    margin: 10px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 24px;
+}
